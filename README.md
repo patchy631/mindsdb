@@ -15,17 +15,6 @@
   <a href="https://github.com/mindsdb/mindsdb">
     <img src="/docs/assets/mindsdb_logo.png" alt="MindsDB" width="300">
   </a>
-
-  <p align="center">
-    <br />
-    <a href="https://www.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Website</a>
-    ·
-    <a href="https://docs.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Docs</a>
-    ·
-    <a href="https://mindsdb.com/contact">Contact us for a Demo</a>
-    ·
-    <a href="https://mindsdb.com/joincommunity?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Community Slack</a>
-  </p>
 </div>
 
 ----------------------------------------
