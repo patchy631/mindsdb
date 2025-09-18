@@ -69,7 +69,7 @@ In many situations, it’s important to be able to prepare and unify data before
 
 Unification of data can be automated using JOBs
 
-* [**JOBS**](https://docs.mindsdb.com/mindsdb_sql/sql/create/jobs) – Schedule synchronization and transformation tasks for real-time processing.
+* [**JOBS**](https://docs.mindsdb.com/mindsdb_sql/sql/create/jobs) – Schedule synchronization & transformation tasks for real-time processing.
 
 
 ## [Respond](https://docs.mindsdb.com/mindsdb_sql/agents/agent) From Your Data
