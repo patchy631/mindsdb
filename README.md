@@ -22,6 +22,8 @@
 
 MindsDB enables humans, AI, agents, and applications to get highly accurate answers across large scale data sources.
 
+![MindsDB Philosophy](assets/philo.gif)
+
 <a href="https://www.youtube.com/watch?v=MX3OKpnsoLM" target="_blank">
   <img src="https://github.com/user-attachments/assets/119e7b82-f901-4214-a26f-ff7c5ad86064" alt="MindsDB Demo">
 	
