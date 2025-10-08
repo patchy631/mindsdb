@@ -11,7 +11,7 @@
   <a href="https://trendshift.io/repositories/3068" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3068" alt="mindsdb%2Fmindsdb | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
  
   <a href="https://github.com/mindsdb/mindsdb">
-    <img src="assets/new-logo.png" alt="MindsDB" width="250">
+    <img src="assets/new-logo.png" alt="MindsDB" width="450">
   </a>	
   
 </div>
