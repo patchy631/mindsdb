@@ -27,7 +27,7 @@
     <a href="https://mindsdb.com/joincommunity?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Community Slack</a>
   </p>
 </div>
-
+---
 ----------------------------------------
 
 
