@@ -18,8 +18,9 @@
 
   <a href="https://trendshift.io/repositories/3068" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3068" alt="mindsdb%2Fmindsdb | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
- 
+ ---
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <p align="center">
     <br />
     <a href="https://www.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo">Website</a>
