@@ -3,6 +3,12 @@
 <a name="readme-top"></a>
 
 <div align="center">
+	<a href="https://github.com/mindsdb/mindsdb" align="center">
+		<img src="/docs/assets/mindsdb_logo.png" alt="MindsDB" width="300">
+	</a>
+</div>
+
+<div align="center">
 	<a href="https://pypi.org/project/MindsDB/" target="_blank"><img src="https://badge.fury.io/py/MindsDB.svg" alt="MindsDB Release"></a>
 	<a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg" alt="Python supported"></a>
 	<a href="https://hub.docker.com/u/mindsdb" target="_blank"><img src="https://img.shields.io/docker/pulls/mindsdb/mindsdb" alt="Docker pulls"></a>
@@ -12,9 +18,7 @@
 
   <a href="https://trendshift.io/repositories/3068" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3068" alt="mindsdb%2Fmindsdb | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-  <a href="https://github.com/mindsdb/mindsdb">
-    <img src="/docs/assets/mindsdb_logo.png" alt="MindsDB" width="300">
-  </a>
+ 
 
   <p align="center">
     <br />
@@ -32,7 +36,9 @@
 
 
 MindsDB enables humans, AI, agents, and applications to get highly accurate answers across large scale data sources.
+___
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://www.youtube.com/watch?v=MX3OKpnsoLM" target="_blank">
   <img src="https://github.com/user-attachments/assets/119e7b82-f901-4214-a26f-ff7c5ad86064" alt="MindsDB Demo">
 	
